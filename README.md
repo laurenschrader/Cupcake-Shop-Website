@@ -1,19 +1,19 @@
-# _{Application Name}_
+# _Bakery of Bliss Website_
 
-#### By _**{List of contributors}**_
+#### By _**Lauren Schrader**_
 
-#### _{Brief description of application}_
+#### _This is a simple html interface, with css styling, which showcases a fictional cupcake shop, "Bakery of Bliss."_
 
 ## Technologies Used
 
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+* **HTML** - For designing the structure of each page.
+* **CSS** - For styling the content of the pages.
+* **Git/GitHub** - For tracking all changes made to the project.
+* **VSCode** - The code editor used for writing all code of the project.
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+_This is simple html webpage for a fictional cupcake shop, called "Bakery of Bliss". Users can view the shop's name, menu, and corresponding cupcake images._
 
 ## Setup/Installation Requirements
 
@@ -34,4 +34,4 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
 
-Copyright (c) _date_ _author name(s)_
+Copyright (c) _date_ _author name(s)_Application Name}
